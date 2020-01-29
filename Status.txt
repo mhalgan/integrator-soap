@@ -1,0 +1,6 @@
+I - Initialized
+Q - Queued
+F - Failed
+D - Data Error
+S - Succedded
+X - Tries Exhausted
